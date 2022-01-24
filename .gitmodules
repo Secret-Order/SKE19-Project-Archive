@@ -4,3 +4,6 @@
 [submodule "year1/semester1/Space-Chasing-Game"]
 	path = year1/semester1/Space-Chasing-Game
 	url = https://github.com/RyukungG/Space-Chasing-Game.git
+[submodule "year1/semester1/Card_game"]
+	path = year1/semester1/Card_game
+	url = https://github.com/Tezigudo/Card_game.git
