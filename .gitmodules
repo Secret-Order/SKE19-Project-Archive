@@ -1,6 +1,6 @@
 [submodule "year1/semester1/tlot"]
 	path = year1/semester1/tlot
-	url = git@github.com:GToidZ/tlot.git
+	url = https://github.com/GToidZ/tlot.git
 [submodule "year1/semester1/Space-Chasing-Game"]
 	path = year1/semester1/Space-Chasing-Game
 	url = https://github.com/RyukungG/Space-Chasing-Game.git
