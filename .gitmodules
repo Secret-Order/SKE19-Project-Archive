@@ -1,0 +1,3 @@
+[submodule "year1/semester1/tlot"]
+	path = year1/semester1/tlot
+	url = git@github.com:GToidZ/tlot.git
