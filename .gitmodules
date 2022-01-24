@@ -7,3 +7,6 @@
 [submodule "year1/semester1/Card_game"]
 	path = year1/semester1/Card_game
 	url = https://github.com/Tezigudo/Card_game.git
+[submodule "year1/semester1/Cassette-tape-project"]
+	path = year1/semester1/Cassette-tape-project
+	url = https://github.com/Savetang19/Cassette-tape-project.git
