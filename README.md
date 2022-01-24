@@ -15,8 +15,9 @@ Each of the `Semester` folders has a `README.md` file contained to include the l
 ```sh
 ske-projs/ > git checkout -B <your_new_branch>
 ```
-- Navigate to the respective folders and contribute a new submodule there, do note that when adding submodules you should use HTTPS links ending with .git
-for example if your project is in year 1 semester 1,
+- Navigate to the respective folders and contribute a new submodule there, do note that when adding submodules you should use HTTPS links ending with .git.
+
+For example if your project is in year 1 semester 1,
 ```sh
 ske-projs/ > git submodule add <your_project_repo_on_github> year1/semester1/<repo_name>
 ```
