@@ -6,7 +6,10 @@ The project directory is split into an order of, `Year > Semester`
 Each of the `Semester` folders has a `README.md` file contained to include the list of projects along with their respective authors.
 
 ## Adding Your Project
-- Fork this project and clone it onto your machine. Do not work on the main repo!
+#### ⚠ IMPORTANT ⚠
+- Fork this repository and [enable Github Actions](https://github.com/Secret-Order/SKE19-Project-Archive#enabling-github-actions) **(This is required, if the PR doesn't come with checks or marks the PR will be rejected.)** **DO THIS BEFORE CONTINUING!!!**
+#### ⚠ IMPORTANT ⚠
+- Clone it onto your machine. Do not work on the main repo!
 ```sh
 > git clone <your_fork_repo> ske-projs
 > cd ske-projs
@@ -39,3 +42,6 @@ ske-projs/ > git submodule add <your_project_repo_on_github> year3/semester2/<re
 ```sh
 > git commit -m "added project by <your_name> to Year 1 Semester 1"
 ```
+
+## Enabling Github Actions
+Go to your fork, then Actions tab and the click on the green button with text, "I understand my workflows, go ahead and enable them"
