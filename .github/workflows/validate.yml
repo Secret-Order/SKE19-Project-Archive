@@ -9,7 +9,7 @@ jobs:
       - name: Validate Commit Message
         run: |
           git clone https://github.com/Secret-Order/actions-utils.git utils
-          cp /utils/project-archive/commit-test.sh .
+          cp ./utils/project-archive/commit-test.sh .
           chmod +x ./commit-test.sh
           ./commit-test.sh "${{ github.event.head_commit.message }}"
         shell: bash
