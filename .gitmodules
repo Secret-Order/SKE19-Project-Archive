@@ -10,3 +10,6 @@
 [submodule "year1/semester1/Cassette-tape-project"]
 	path = year1/semester1/Cassette-tape-project
 	url = https://github.com/Savetang19/Cassette-tape-project.git
+[submodule "year1/semester2/Japan-Temperature-Visualization"]
+	path = year1/semester2/Japan-Temperature-Visualization
+	url = https://github.com/Tezigudo/JapanTemperatureVisualization.git
