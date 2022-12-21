@@ -13,3 +13,6 @@
 [submodule "year1/semester2/Japan-Temperature-Visualization"]
 	path = year1/semester2/Japan-Temperature-Visualization
 	url = https://github.com/Tezigudo/JapanTemperatureVisualization.git
+[submodule "year2/semester1/WePay"]
+	path = year2/semester1/WePay
+	url = https://github.com/WePays/WePay.git
